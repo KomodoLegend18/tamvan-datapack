@@ -1,0 +1,1 @@
+op @a[nbt={Inventory:[{id:"minecraft:dirt",tag:{display:{Name:'{"text":"Komodo"}'}}}]}]

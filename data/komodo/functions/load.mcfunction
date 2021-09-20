@@ -19,7 +19,9 @@ scoreboard objectives setdisplay list gacha_counter
 #=add scoreboard objectives
 scoreboard objectives add holohead_ticket dummy
 scoreboard objectives add reg_ticket dummy
+scoreboard objectives add buy_holohead_tix trigger
 scoreboard objectives add trig_holo_gacha trigger
 scoreboard objectives add trig_reg_gacha trigger
 schedule function komodo:gacha/ticket_1 10t
 schedule function komodo:gacha/ticket_2 10t
+schedule function komodo:gacha/diamond_counter 10t

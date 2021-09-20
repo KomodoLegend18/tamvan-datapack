@@ -14,14 +14,20 @@ execute if entity @a[nbt={Inventory:[{id:"minecraft:dirt",tag:{display:{Name:'{"
 #GACHA INIT
 #=Scoreboard
 scoreboard players enable @a gacha_counter
+
+scoreboard players enable @a diamond
 scoreboard players enable @a reg_ticket
 scoreboard players enable @a holohead_ticket
 #=Trigger for non-OP player
 scoreboard players enable @a trig_reg_gacha
 scoreboard players enable @a trig_holo_gacha
+scoreboard players enable @a buy_holohead_tix
+
 # execute as @a[scores={gacha_counter=1..}] run function
 execute as @a[scores={trig_reg_gacha=1..}] run function komodo:gacha/regular_execute_gacha
 execute as @a[scores={trig_holo_gacha=1..}] run function komodo:gacha/holohead_execute_gacha
+execute as @a[scores={buy_holohead_tix=1..}] run function komodo:gacha/holohead_buy_check
 # scoreboard players reset @a[scores={tpmenu=1..}]
-scoreboard players reset @a[scores={trig_reg_gacha=1..}]
-scoreboard players reset @a[scores={trig_holo_gacha=1..}]
+scoreboard players set @a[scores={trig_reg_gacha=1..}] trig_reg_gacha 0
+scoreboard players set @a[scores={trig_holo_gacha=1..}] trig_holo_gacha 0
+scoreboard players set @a[scores={buy_holohead_tix=1..}] buy_holohead_tix 0

@@ -1,0 +1,1 @@
+clear @s[nbt={Inventory:[{id:"minecraft:diamond",Slot:-106b}]}] minecraft:diamond 1

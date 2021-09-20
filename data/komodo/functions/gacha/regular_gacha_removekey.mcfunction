@@ -1,0 +1,1 @@
+clear @s[nbt={Inventory:[{id:"minecraft:paper",Slot:-106b,tag:{display:{Name:'{"text":"Gacha Ticket"}'}}}]}] minecraft:paper{display:{Name:'{"text":"Gacha Ticket"}'}} 2

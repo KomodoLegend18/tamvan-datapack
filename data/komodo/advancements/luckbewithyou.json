@@ -1,0 +1,39 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "May the luck be with you",
+            "color": "green",
+            "bold": true,
+            "italic": true
+        },
+        "description": {
+            "text": "Play Regular Gacha for the first time"
+        },
+        "icon": {
+            "item": "minecraft:iron_ingot"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "gachastartreg": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:paper",
+                        "nbt": "{display:{Name:'{\"text\":\"Gacha Ticket\"}'}}",
+                        "count": {
+                            "min": 1,
+                            "max": 5
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "komodo:root"
+}

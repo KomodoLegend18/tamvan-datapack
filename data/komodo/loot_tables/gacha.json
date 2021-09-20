@@ -1,0 +1,55 @@
+{"type":"block",
+    "pools":[
+        {
+            "rolls":1,
+            "entries":[
+                {"type":"item",
+                    "weight":6,
+                    "name":"minecraft:spider_eye",
+                    "functions":[{"function":"set_count","count":6}]
+                },
+                {"type":"item",
+                    "weight":1,
+                    "name":"minecraft:diamond",
+                    "functions":[{"function":"set_count","count":3}]
+                },
+                {"type":"item",
+                    "weight":10,
+                    "name":"minecraft:paper",
+                    "functions":[
+                        {"function":"set_count","count":1},
+                        {"function":"set_lore","lore":[{"text":"Better luck next time :/"}]}]
+                },
+                {"type":"item",
+                    "weight":6,
+                    "name":"minecraft:bone",
+                    "functions":[{"function":"set_count","count":3}]
+                },
+                {"type":"item",
+                    "weight":1,
+                    "name":"minecraft:saddle",
+                    "functions":[{"function":"set_count","count":1}]
+                },
+                {"type":"item",
+                    "weight":1,
+                    "name":"minecraft:tropical_fish_bucket",
+                    "functions":[{"function":"set_count","count":1},
+                        {"function":"set_nbt",
+                            "tag":"{EntityTag:{FromBucket:1b,CustomName:'{\"text\":\"Udin\"}',Attributes:[{Name:generic.max_health,Base:20}],Variant:184747008}}"},{"function":"set_name",
+                                "name":[{"text":"Ikan Cupang"}]
+                            }
+                    ]
+                },
+                {"type":"item",
+                    "weight":2,
+                    "name":"minecraft:paper",
+                    "functions":[{"function":"set_count","count":1},
+                        {"function":"set_name","name":[{"text":"Gacha Ticket"}]}
+                    ]
+                }
+
+
+            ]
+        }
+    ]
+}

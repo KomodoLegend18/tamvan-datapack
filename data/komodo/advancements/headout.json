@@ -1,0 +1,36 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Aight, Imma head out",
+            "italic": true
+        },
+        "description": {
+            "text": "Get your first player head"
+        },
+        "icon": {
+            "item": "minecraft:player_head"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "gethead": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["minecraft:player_head"],
+                        "count": {
+                            "min": 1,
+                            "max": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "komodo:rateup"
+}

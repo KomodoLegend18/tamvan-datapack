@@ -1,0 +1,3 @@
+execute at @s run summon fox ~ ~ ~ {CustomNameVisible:0b,PersistenceRequired:1b,CanPickUpLoot:1b,Type:"snow",Tags:["waifriend"],CustomName:'{"text":"Fubuki","color":"aqua"}',HandItems:[{id:"minecraft:bread",Count:1b,tag:{display:{Name:'{"text":"Hambaga"}',Lore:['{"text":"Fubuki\'s Hambaga"}']},AttributeModifiers:[{AttributeName:"generic.attack_speed",Name:"generic.attack_speed",Amount:1000,Operation:0,UUID:[I;-1206223106,1790328871,-1717581268,-2083257214],Slot:"offhand"}]}},{}],HandDropChances:[2.000F,0.085F],ActiveEffects:[{Id:10b,Amplifier:2b,Duration:999999,ShowParticles:0b}]}
+tag @e[type=fox,name="Fubuki"] add friend
+execute as @e[type=fox,tag=friend] run say Hi Friends~!

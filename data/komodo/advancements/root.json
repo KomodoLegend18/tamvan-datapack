@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "The TamVan",
+            "color": "gold",
+            "bold": true,
+            "obfuscated": false
+        },
+        "description": {
+            "text": "https://discord.gg/u7abbQm"
+        },
+        "icon": {
+            "item": "minecraft:cartography_table"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "getstart": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

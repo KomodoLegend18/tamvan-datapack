@@ -1,0 +1,3 @@
+#i think this is supposed to announce what item you get from the gacha machine, but im using advancements now rather than using whatever this is
+
+#tellraw @s {"text":"@p[nbt={Inventory:[{id:\"minecraft:paper\",Slot:-106b,tag:{display:{Name:'{\"text\":\"Gacha Ticket\"}',Lore:['{\"text\":\"First Series\"}']}}}]}]","clickEvent":{"action":"copy_to_clipboard","value":"tellraw @p {\"text\":\"@p[nbt={Inventory:[{id:\\\"minecraft:paper\\\",Slot:-106b,tag:{display:{Name:'{\\\"text\\\":\\\"Gacha Ticket\\\"}',Lore:['{\\\"text\\\":\\\"First Series\\\"}']}}}]}]\"}"}}

@@ -14,4 +14,4 @@ scoreboard objectives add buy_holohead_tix trigger
 
 
 
-scoreboard objectives add tp_chicken trigger
+scoreboard objectives add tp_base trigger

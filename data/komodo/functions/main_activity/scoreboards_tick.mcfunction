@@ -12,4 +12,4 @@ scoreboard players enable @a trig_holo_gacha
 scoreboard players enable @a buy_holohead_tix
 
 
-scoreboard players enable @a tp_chicken
+scoreboard players enable @a tp_base

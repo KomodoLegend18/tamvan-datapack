@@ -1,5 +1,5 @@
 # Loaded Text
-say KomoPack 1.4 successfully loaded.
+say KomoPack 1.4.1 successfully loaded.
 
 gamerule sendCommandFeedback true
 

@@ -10,4 +10,4 @@ execute as @a[scores={buy_holohead_tix=1..,money=1..}] run function komodo:gacha
 
 
 
-execute as @a[scores={tp_chicken=1..}] run tp @s -227 4 -40 facing -227.26 5.50 -43.00
+execute as @a[scores={tp_base=1..}] run tp @s 210 67 -75

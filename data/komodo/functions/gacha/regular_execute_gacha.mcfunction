@@ -1,1 +1,0 @@
-execute as @p[nbt={Inventory:[{id:"minecraft:paper",Slot:-106b,tag:{display:{Name:'{"text":"Gacha Ticket"}'}}}]}] if score @s reg_ticket matches 2.. run function komodo:gacha/regular_gacha_roll

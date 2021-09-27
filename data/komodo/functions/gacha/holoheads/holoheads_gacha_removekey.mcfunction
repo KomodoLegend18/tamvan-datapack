@@ -1,1 +1,2 @@
+# 3rd Step
 clear @s[nbt={Inventory:[{id:"minecraft:paper",Slot:-106b,tag:{display:{Name:'{"text":"Gacha Ticket | holoheads"}'}}}]}] minecraft:paper{display:{Name:'{"text":"Gacha Ticket | holoheads"}'}} 1

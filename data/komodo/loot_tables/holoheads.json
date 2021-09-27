@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "item",
-          "weight": 1,
+          "weight": 3,
           "name": "minecraft:player_head",
           "functions": [
             {
@@ -137,6 +137,650 @@
               "name": [
                 {
                   "text": "Hoshimachi Suisei Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 7,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-1379581538,-311997663,-2008763365,145346295],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU1NzZiODQzYmMzZGM0NzE3YzA5OWMyNDdmZmE4YTM3Mjc5MTBjYzVjY2U5NmI3MjFmMWM4MzYzYzYwODhhMyJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Haachama Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 7,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-1953588634,-1091156377,-1127464904,1378970658],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVjOTc1ZGViMjhkZTMzNjQ3ODc5MDhmYjBmNjkzYjIwMGViMTZjNTBmZmQ3ZmNmNjJjZGJlMjM2NjViOGYzOSJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Shirakami Fubuki Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 7,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-1176886459,2120895005,-1113905900,-1599468109],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDhlN2UzYjA4YmExN2M4OWRiYzJiODVhYjVmYTViNDk5MTZlZmVmMTQ5YzgwMzViOTZjNjJmMjE1Y2U5YzJjMSJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Natsuiro Matsuri Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 7,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;1348695807,326125822,-1934468762,-2138284081],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjk4Mzc1Njc1NjlhNjlhNTFhZDE4MzJmYTU2M2JkMzdiNmE1OTJiYmVlNTUyMTBjODU0N2RhODZmODQ0NWEyOSJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Aki Rosenthal Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 7,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;972541252,-1524939176,-1871460078,453114033],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRlNmMxMWU0ODk4NmFlNWM0MTE3N2UyZmIzMTdiMGU3NTdiNTUxM2RjOTVlOGJhMTg5MWQzMjY4YjVhOGZjMCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Yozora Mel Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 9,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-1443575707,-187611498,-1748585098,281289733],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmE3Y2JiM2FhY2Q2ZTNkMDgyNjQ3OGJlM2I2ZjQyNTkwOWQ3ZTAyM2IzMGNmNzMzMmYzY2ExZjk5NWVmYTg2OCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Nakiri Ayame Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 9,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-2062462351,-511884260,-1109092480,-530614632],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGE3MjllNDViN2I4N2U5YzIwYWMyYzI0NTNlYWRmNzQ4MDRlYTA0NzBmYzNjZjA3N2JlMTRmNWI1NTY5Zjk1MiJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Oozora Subaru Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 9,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;159056781,-822850193,-1130785939,519033207],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU1M2Y1NGVlNGE4ODY0YjdkNTIyZDVjYTkyNTE2Y2U5ZTlmOWE0YWU4YmYzZmRkMmQzOWJmYjc0MzY0ZDgyOCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Minato Aqua Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 9,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;1607679879,-1313846390,-1718017998,-671739651],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjkxZDE3NTJjMjVmNzVjYTIzZmE4MmFmYTUyNzEwMDEzYjBhMjNmNTdmNmI5ZjYyMjYyYmU2YzI1Yjc3MDI4YiJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Murasaki Shion Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 9,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;1454720436,-2116074888,-1976907728,-1411873201],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFkOGI0Njg4ZGUyNGFkZDFjYTkwNmVkOGEyYmVhOWYzYTVjZTI0MTZkMjk4ZTI1YmUwNzJjZTAzYjUwYTY1MSJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Yuzuki Choco Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 11,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;2114012341,-1521793919,-1243567527,-716877006],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJlN2NkZDkwYzEyZGFkOWFmYzAwYjkzYTZlYjA4ZmNhZTkzNmM0ZDlmOTE1ZTc0MGQ0NWQ3MzAyMjkyNTczNCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Inugami Korone Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 11,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-197276370,-682668210,-1491956389,845867096],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAxOTM5OGJmM2RkMDU2NTQxZDk0YTQ1YWM0MjhjNGIyZGFiNjhlMGYwZmM5YjQxYjI1YTgxYmRmZDI1ODI1NiJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Ookami Mio Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 11,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-1953588634,-1091156377,-1127464904,1378970658],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVjOTc1ZGViMjhkZTMzNjQ3ODc5MDhmYjBmNjkzYjIwMGViMTZjNTBmZmQ3ZmNmNjJjZGJlMjM2NjViOGYzOSJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Shirakami Fubuki Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 11,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-633678902,1918058777,-1305517102,-1589703250],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDc5ZGQ2ZDYwZWIzOTM0NTY1ODcwOTJhYzQ5MDhmM2U1NmFlYmNiNzVkZTIxODY4MzY1MTJiNjhiOGY2NDUyZCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Nekomata Okayu Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 13,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-365695485,-792179491,-1745116582,1006855878],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhiYmRiMDAxOTViZjU2OWFhNWZkYjBmNjFlNTBiZDkxMjM1ZWJiMmYzNmJhYTRhZDY2YjYyZjc0ZTU2ZGZhNSJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Usada Pekora Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 13,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;217092283,391530151,-2087102738,399006974],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJmNzZiODFmN2VhZmRiZDc4MjUyZWY1ZGFiMmI0YWExY2FmZDRhY2Y2ZTAxMzdhMmExNDc5NzVlN2E4YWU5YyJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Uruha Rushia Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 13,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;1886706622,1646610358,-2021212635,-838195449],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RhN2JhM2YxZjEwNzZkYTQ3OTA0MWU0MDdjNTljNDNmNDcyOGIxZWY0YTMwYzc1NWMyMGJjZmU2YWRkNzczNCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Shiranui Flare Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 13,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-1889218700,1229015401,-1399299067,1387564870],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQwOTE3OThkYzM0YWM0YjVlMzk3OTMzZTk5YzllMGViOTU5YTJjOWM0MjRiZGMyODE4ZjA2ZDU1YmRlYTdhNyJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Shirogane Noel Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 13,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-2140220026,29380405,-1777612821,1575134163],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZlMDQ1YWQ3OGFhMDg4NDUwYjJlNWZiMGI3NzkyYjA2MzcxNmRhMjUyMGMxN2IyNzE1N2M4OWY0MTQ1YWZhOSJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Houshou Marine Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 15,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-1920806553,-1604563681,-1520723690,-715798666],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2IyYzRiMGM5YTAyNDE5ZDA1NWNkMzk5MjA0MmQzMDdjMTIwOTRhNDQ5YzIxOWFkN2ViYTA0ZmQxNzFlZjgzNyJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Amane Kanata Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 15,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-909424421,1414744049,-1993515963,1264412031],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y3ZTIxNWM1NzFjNTk0MTdhZTZiZDQwMDkyMGQ5MGY3Mzc3ODViZjdhN2E0YzlmYmIzNzkwZWEzMzI5NjMxNCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Himemori Luna Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 15,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;100573506,-1037745402,-1456700690,199607839],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmVjN2Y5OWRjMjg4ZGMyYWI5MDhmNGE5NGU3N2Q1Y2M5YjNiNzUzNjE4M2Q2YjVjZjljZDc3ODZlZDdiZGQ5NCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Tsunomaki Watame Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 15,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;925334728,-1512684239,-1097377853,571003146],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBiYjY2YjYxYWJjM2Y5MzM3MzUzN2EyMjJjY2MzZTZlZjg5NmVmOGZiYjhmMGExYWMyYzRlM2RkODkwZWVkNiJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Kiryu Coco Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 15,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;1711090959,97274022,-1695836379,40043402],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQxN2Y5NTBjNGViNGUwYjI0MTBlYzIyN2UxYzI0ZjVhOGQ2MGY0MDcwZDAyOGZlZThjM2VlOWRkZjg5Y2ZkMCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Tokoyami Towa Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 17,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;300831010,-94549555,-1634975229,-1480504954],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDE5ZTU3MmFjZjkwY2JlMTQ4M2Q5NzdmMjQ5OGQ4OWRkMjE5MGNmYWI0YTA5ZDBkYzNiM2JhNTg2MjZlNjliZCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Shishiro Botan Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 17,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;1704091454,321145960,-1729496741,1472168622],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjZGI4YWVmYWNjMTk2M2ZkZTlhZGNjMmQ4NWU5YzViMjYyMjJhNTAwZTYwOWE1ZTNjZTEzZmVjNDNkMDVlYyJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Omaru Polka Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 17,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;138936136,1776044612,-1271452554,435586968],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWFlOWFkODIzZjhmYTkxYTU0ZjgwOWM3NDQ5NTk2ODkzN2E5YjdiN2EwMWNjNmQyNzJiYjY3MDY3Y2E5MzhkMiJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Yukihana Lamy Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 17,
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{SkullOwner:{Id:[I;-1113832274,84428088,-1962956593,922862972],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM0NjRlODY5ZjZhNmEwNGVhN2M0OTQ4Yjk4YjYyMzM0NWQ2ODViYTMyMzM4YTY5ZGIyOTcxOTJjZTE2NzcyNCJ9fX0=\"}]}}}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Momosuzu Nene Head"
                 }
               ]
             }

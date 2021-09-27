@@ -1,1 +1,0 @@
-execute as @p[nbt={Inventory:[{id:"minecraft:diamond",Slot:-106b}]}] if score @s diamond matches 1.. run function komodo:gacha/holohead_buy_success

@@ -13,3 +13,4 @@ scoreboard players enable @a buy_holohead_tix
 
 
 scoreboard players enable @a tp_base
+scoreboard players enable @a tp_botan

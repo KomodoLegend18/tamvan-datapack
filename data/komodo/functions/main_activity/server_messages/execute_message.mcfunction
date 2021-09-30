@@ -1,0 +1,2 @@
+function komodo:main_activity/server_messages/messages
+# schedule function komodo:main_activity/server_messages/execute_message 25s

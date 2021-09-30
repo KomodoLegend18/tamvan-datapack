@@ -1,16 +1,23 @@
 # Applies to everyone
+# every tick
 # works together with scoreboards_load
 # 
-# Enable Counters
-scoreboard players enable @a gacha_counter
-scoreboard players enable @a money
-scoreboard players enable @a reg_ticket
-scoreboard players enable @a holohead_ticket
-# Enable Triggers (Workaround for non-OP players)
-scoreboard players enable @a trig_reg_gacha
-scoreboard players enable @a trig_holo_gacha
-scoreboard players enable @a buy_holohead_tix
-
-
-scoreboard players enable @a tp_base
-scoreboard players enable @a tp_botan
+# example:
+# scoreboard players enable @a tp_base
+# 
+# 
+# Enable Gacha Triggers & Counters
+function komodo:gacha/scoreboards/gacha_scoreboards_tick
+# 
+# Enable Teleport Triggers
+function komodo:teleporter/scoreboards/tp_scoreboards_tick
+# 
+# Enable Sleeping counter
+function komodo:1playersleep/sleep_tick
+# 
+# Loop Server RNG
+scoreboard players add Server RNG 3
+execute if score Server RNG matches 100.. run scoreboard players set Server RNG 0
+# 
+# Enable Playtime Counter
+scoreboard players enable @a playtime

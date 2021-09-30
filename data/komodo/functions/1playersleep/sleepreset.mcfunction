@@ -1,0 +1,1 @@
+scoreboard players set @a[scores={sleeping=1..}] sleeping 0

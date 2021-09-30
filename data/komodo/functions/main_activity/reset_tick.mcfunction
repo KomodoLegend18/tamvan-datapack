@@ -3,6 +3,9 @@
 scoreboard players set @a[scores={trig_reg_gacha=1..}] trig_reg_gacha 0
 scoreboard players set @a[scores={trig_holo_gacha=1..}] trig_holo_gacha 0
 scoreboard players set @a[scores={buy_holohead_tix=1..}] buy_holohead_tix 0
+scoreboard players set @a[scores={gacha_menu=1..}] gacha_menu 0
+# 
+# Reset Teleporters
+function komodo:teleporter/scoreboards/tp_reset
 
-scoreboard players set @a[scores={tp_base=1..}] tp_base 0
-scoreboard players set @a[scores={tp_botan=1..}] tp_botan 0
+function komodo:1playersleep/sleepreset

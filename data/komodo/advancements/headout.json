@@ -22,7 +22,9 @@
             "conditions": {
                 "items": [
                     {
-                        "items": ["minecraft:player_head"],
+                        "items": [
+                            "minecraft:player_head"
+                        ],
                         "count": {
                             "min": 1,
                             "max": 2
@@ -31,6 +33,9 @@
                 ]
             }
         }
+    },
+    "rewards": {
+        "experience": 5
     },
     "parent": "komodo:rateup"
 }

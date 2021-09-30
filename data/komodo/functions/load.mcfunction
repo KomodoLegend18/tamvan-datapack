@@ -1,8 +1,7 @@
 # Loaded Text
-say KomoPack 1.4.1 successfully loaded.
-
-gamerule sendCommandFeedback true
+say KomoPack 1.4.3 successfully loaded.
 
 # Start
 function komodo:main_activity/scoreboards_load
 function komodo:main_activity/schedules_load
+function komodo:main_activity/teams_load

@@ -16,6 +16,7 @@ scoreboard objectives add playtime minecraft.custom:minecraft.play_time
 # Add Health Display to Playerlist/TAB
 scoreboard objectives add HP health
 scoreboard objectives setdisplay list HP
+scoreboard objectives add deathdetector deathCount
 
 # Random Number Generator
 scoreboard objectives add RNG dummy

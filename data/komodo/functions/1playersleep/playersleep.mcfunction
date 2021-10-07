@@ -1,6 +1,7 @@
 execute as @a[scores={sleeping=1..}] run xp add @s 50 points
 execute as @a[scores={sleeping=1..}] run time set 0
-execute as @a[scores={sleeping=1..}] run time add 1d
+execute as @a[scores={sleeping=1..}] run time add 69420d
+execute as @a[scores={sleeping=1..}] run weather clear
 
 
 execute if score Server RNG matches 0..20 as @a[scores={sleeping=1..}] run tellraw @a [{"selector":"@a[scores={sleeping=1..}]","color":"aqua"},{"text":" went to sleep","color":"white"}]

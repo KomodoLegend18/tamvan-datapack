@@ -1,2 +1,3 @@
-function komodo:main_activity/server_messages/messages
-# schedule function komodo:main_activity/server_messages/execute_message 25s
+# function komodo:main_activity/server_messages/messages
+function komodo:main_activity/server_messages/death
+schedule function komodo:main_activity/server_messages/execute_message 25s

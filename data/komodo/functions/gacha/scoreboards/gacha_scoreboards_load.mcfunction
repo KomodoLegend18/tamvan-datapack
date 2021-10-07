@@ -2,6 +2,7 @@
 scoreboard objectives add gacha_counter dummy
 #scoreboard objectives setdisplay list gacha_counter 
 scoreboard objectives add money dummy
+scoreboard objectives add money_gold dummy
 scoreboard objectives add reg_ticket dummy
 scoreboard objectives add holohead_ticket dummy
 # Create scoreboards for triggers
@@ -9,3 +10,11 @@ scoreboard objectives add trig_reg_gacha trigger
 scoreboard objectives add trig_holo_gacha trigger
 scoreboard objectives add buy_holohead_tix trigger
 scoreboard objectives add gacha_menu trigger
+scoreboard objectives add shop_menu trigger
+scoreboard objectives add buy_item1 trigger
+scoreboard objectives add buy_item2 trigger
+scoreboard objectives add buy_item3 trigger
+scoreboard objectives add buy_item4 trigger
+scoreboard objectives add buy_item5 trigger
+scoreboard objectives add buy_item6 trigger
+scoreboard objectives add buy_item7 trigger

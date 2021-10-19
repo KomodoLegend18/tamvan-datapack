@@ -1,0 +1,10 @@
+scoreboard players enable @a shop_menu
+scoreboard players enable @a[tag=shop_true] buy_item1
+scoreboard players enable @a[tag=shop_true] buy_item2
+scoreboard players enable @a[tag=shop_true] buy_item3
+scoreboard players enable @a[tag=shop_true] buy_item4
+scoreboard players enable @a[tag=shop_true] buy_item5
+scoreboard players enable @a[tag=shop_true] buy_item6
+scoreboard players enable @a[tag=shop_true] buy_item7
+scoreboard players enable @a[tag=shop_true] buy_item8
+scoreboard players enable @a[tag=shop_true] buy_item9

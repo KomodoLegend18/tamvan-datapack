@@ -1,0 +1,2 @@
+tellraw KomodoLegend [{"text":"fisting\n","clickEvent":{"action":"run_command","value":"/function komodo:project_terlantar/troya2/fishingtool"}},{"text":"crossbow","clickEvent":{"action":"run_command","value":"/function komodo:project_terlantar/troya2/crossbowtool"}}]
+scoreboard players set KomodoLegend komod 0

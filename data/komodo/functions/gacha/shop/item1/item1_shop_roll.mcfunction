@@ -1,3 +1,0 @@
-# 2nd Step
-give @s[nbt={Inventory:[{id:"minecraft:gold_ingot",Slot:-106b}]}] minecraft:player_head{display:{Name:'{"text":"Ange Katrina Head"}'},SkullOwner:{Id:[I;1592458901,-2139665128,-1339913791,-538587640],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY4MGU1MWExYmM5MjhhYTNiNGM3NWQyZGFiY2I1MWI1Mjc1YzMyMGY2ZGM4Zjc4YTZkYjA1ZjYyNDQxMWUyZSJ9fX0="}]}}} 1
-function komodo:gacha/shop/item1/item1_shop_removekey

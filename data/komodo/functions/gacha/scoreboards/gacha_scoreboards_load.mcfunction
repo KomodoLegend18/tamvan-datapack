@@ -10,11 +10,3 @@ scoreboard objectives add trig_reg_gacha trigger
 scoreboard objectives add trig_holo_gacha trigger
 scoreboard objectives add buy_holohead_tix trigger
 scoreboard objectives add gacha_menu trigger
-scoreboard objectives add shop_menu trigger
-scoreboard objectives add buy_item1 trigger
-scoreboard objectives add buy_item2 trigger
-scoreboard objectives add buy_item3 trigger
-scoreboard objectives add buy_item4 trigger
-scoreboard objectives add buy_item5 trigger
-scoreboard objectives add buy_item6 trigger
-scoreboard objectives add buy_item7 trigger

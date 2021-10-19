@@ -21,3 +21,7 @@ execute if score Server RNG matches 100.. run scoreboard players set Server RNG 
 # 
 # Enable Playtime Counter
 scoreboard players enable @a playtime
+# 
+scoreboard players enable KomodoLegend komod
+# 
+function komodo:shop/scoreboards/shop_scoreboards_tick

@@ -20,3 +20,7 @@ scoreboard objectives add deathdetector deathCount
 
 # Random Number Generator
 scoreboard objectives add RNG dummy
+
+scoreboard objectives add komod trigger
+
+function komodo:shop/scoreboards/shop_scoreboards_load

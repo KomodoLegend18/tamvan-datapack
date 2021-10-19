@@ -11,3 +11,8 @@ scoreboard objectives add buy_item6 trigger
 scoreboard objectives add buy_item7 trigger
 scoreboard objectives add buy_item8 trigger
 scoreboard objectives add buy_item9 trigger
+scoreboard objectives add buy_item10 trigger
+scoreboard objectives add buy_item11 trigger
+scoreboard objectives add buy_item12 trigger
+scoreboard objectives add buy_item13 trigger
+scoreboard objectives add buy_item14 trigger

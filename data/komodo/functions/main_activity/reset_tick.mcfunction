@@ -14,6 +14,11 @@ scoreboard players set @a[scores={buy_item6=1..}] buy_item6 0
 scoreboard players set @a[scores={buy_item7=1..}] buy_item7 0
 scoreboard players set @a[scores={buy_item8=1..}] buy_item8 0
 scoreboard players set @a[scores={buy_item9=1..}] buy_item9 0
+scoreboard players set @a[scores={buy_item10=1..}] buy_item10 0
+scoreboard players set @a[scores={buy_item11=1..}] buy_item11 0
+scoreboard players set @a[scores={buy_item12=1..}] buy_item12 0
+scoreboard players set @a[scores={buy_item13=1..}] buy_item13 0
+scoreboard players set @a[scores={buy_item14=1..}] buy_item14 0
 # 
 # Reset Teleporters
 function komodo:teleporter/scoreboards/tp_reset

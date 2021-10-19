@@ -13,4 +13,4 @@ give @s[nbt={Inventory:[{id:"minecraft:gold_ingot",Slot:-106b}]}] minecraft:fill
 give @s[nbt={Inventory:[{id:"minecraft:gold_ingot",Slot:-106b}]}] minecraft:filled_map{map:56} 1
 give @s[nbt={Inventory:[{id:"minecraft:gold_ingot",Slot:-106b}]}] minecraft:filled_map{map:57} 1
 give @s[nbt={Inventory:[{id:"minecraft:gold_ingot",Slot:-106b}]}] minecraft:filled_map{map:58} 1
-function komodo:shop/item8/item8_shop_removekey
+function komodo:shop/item9/item9_shop_removekey

@@ -35,6 +35,16 @@ execute as @a[scores={buy_item7=1..},tag=shop_true] run function komodo:shop/ite
 execute as @a[scores={buy_item8=1..},tag=shop_true] run function komodo:shop/item8/item8_execute_shop
 # /Item 9
 execute as @a[scores={buy_item9=1..},tag=shop_true] run function komodo:shop/item9/item9_execute_shop
+# /Item 10
+execute as @a[scores={buy_item10=1..},tag=shop_true] run function komodo:shop/item10/item10_execute_shop
+# /Item 11
+execute as @a[scores={buy_item11=1..},tag=shop_true] run function komodo:shop/item11/item11_execute_shop
+# /Item 12
+execute as @a[scores={buy_item12=1..},tag=shop_true] run function komodo:shop/item12/item12_execute_shop
+# /Item 13
+execute as @a[scores={buy_item13=1..},tag=shop_true] run function komodo:shop/item13/item13_execute_shop
+# /Item 14
+execute as @a[scores={buy_item14=1..},tag=shop_true] run function komodo:shop/item14/item14_execute_shop
 # /Menu
 function komodo:gacha/gacha_menu
 function komodo:shop/shop_menu
